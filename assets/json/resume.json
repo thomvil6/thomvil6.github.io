@@ -5,7 +5,7 @@
     "image": "",
     "email": "thomas.villemin@univ-lorraine.fr",
     "phone": "",
-    "url": "https://thomvil6.github.io/",
+    "url": "",
     "summary": "",
     "location": {
       "address": "",
@@ -16,28 +16,28 @@
     },
     "profiles": [
       {
-        "network": "",
+        "network": "Linkedin",
         "username": "",
-        "url": ""
+        "url": "https://www.linkedin.com/in/thomas-villemin-95a2b4112/"
       }
     ]
   },
   "work": [
     {
-      "name": "LEMTA",
+      "name": "Mines Nancy - LEMTA",
       "position": "ATER",
       "url": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "",
       "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Lorraine, Nancy, France",
+      "institution": "LEMTA, University of Lorraine, Nancy, France",
       "location": "Nancy, France",
-      "area": "LEMTA",
+      "area": "",
       "studyType": "PhD",
       "startDate": "2019",
       "endDate": "2023",
@@ -56,6 +56,21 @@
       "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Numerical simulation",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Heat & Mass transfers",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Data acquisition and processing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "languages": [
@@ -68,12 +83,22 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Notions",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Notions",
+      "icon": ""
     }
   ],
   "projects": [
     {
       "name": "PROOF (ANR-19-CE22-0008)",
-      "summary": "Le projet PROOF cherche à confronter des dispositifs de toitures et évaluer leurs impacts et performances énergie-environnement à des scénarios contrastés d’aménagement urbain, en lien avec les enjeux territoriaux associés. Il s’intéresse plus particulièrement, à l’étude d’un combiné innovant, associant toiture végétalisée extensive et panneau photovoltaïque.",
+      "summary": "The PROOF project aims to compare roofing systems and assess their energy-environmental impact and performance in relation to contrasting urban development scenarios and the associated territorial issues. In particular, we study an innovative biosolar green roof system which is the combination of a green roof and a photovoltaic panel.",
       "highlights": ["Extensive Green Roof", "Photovoltaics"],
       "startDate": "2019",
       "endDate": "2025",

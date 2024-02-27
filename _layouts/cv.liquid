@@ -12,8 +12,20 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+          >
+            <i class="fa-solid fa-file-pdf"></i
           ></a>
+        {% endif %}
+        {% if page.second_cv_pdf %}
+         &nbsp; <!-- Add a non-breaking space -->
+          <a
+            href="{{ page.second_cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+          >
+            <i class="fa-solid fa-file-pdf"></i>
+          </a>
         {% endif %}
       </h1>
       {% if page.description %}
@@ -58,8 +70,19 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
+          >
+            <i class="fa-solid fa-file-pdf"></i
           ></a>
+        {% endif %}
+        {% if page.second_cv_pdf %}
+          <a
+            href="{{ page.second_cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+          >
+            <i class="fa-solid fa-file-pdf"></i>
+          </a>
         {% endif %}
       </h1>
       {% if page.description %}
