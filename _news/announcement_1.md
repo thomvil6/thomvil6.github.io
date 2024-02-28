@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am open to job offers :sparkles: :smile: 
+I am open to job offers :sparkles: :smiley:
