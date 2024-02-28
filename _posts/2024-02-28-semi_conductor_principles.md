@@ -372,12 +372,7 @@ p(z) = \underbrace{\Delta p(z)}_{\substack{\text{photogénérés} \\ \text{+} \\
 \mathring{p}(z) = \Delta p^{ph.}(z) + \Delta p^{inj.}(z) + \mathring{p}(z)
 \end{equation}
 
-avec $$\mathring{n}$$ et $$\mathring{p}$$ les densités en électrons et trous à l'équilire.
-
-\begin{equation}
-	n(z) = \underbrace{\Delta n(z)}_{\substack{\text{photogénérés} \\ \text{+} \\ \text{injectés}}} + \underbrace{\mathring{n}(z)}_{\text{équilibre}} = \Delta n^{ph.}(z) + \Delta n^{inj.}(z) + \mathring{n}(z) \text{ et }
-	p(z) = \underbrace{\Delta p(z)}_{\substack{\text{photogénérés} \\ \text{+} \\ \text{injectés}}} + \underbrace{p^{th.}(z)}_{\text{équilibre}} = \Delta p^{ph.}(z) + \Delta p^{inj.}(z) + \mathring{p}(z)
-\end{equation}
+avec $$\mathring{n}$$ et $$\mathring{p}$$ les densités en électrons et trous à l'équilibre.
 
 Les équations de diffusion sur les photogénérés s'écrivent (*en régime stationnaire*) : 
 
