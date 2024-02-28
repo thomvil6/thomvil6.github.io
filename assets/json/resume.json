@@ -29,8 +29,7 @@
       "url": "",
       "startDate": "2023",
       "endDate": "2024",
-      "summary": "",
-      "highlights": [""]
+      "summary": "Teaching at École Mines Nancy and academic research at LEMTA"
     }
   ],
   "education": [
@@ -48,7 +47,8 @@
     {
       "title": "Prix Biot-Fourier",
       "date": "2022",
-      "awarder": "Société Française de Thermique"
+      "awarder": "Société Française de Thermique",
+      "url": "https://www.sft.asso.fr/document.php?pagendx=9984"
     }
   ],
   "skills": [
