@@ -154,6 +154,20 @@
       {{ entry.note | strip }}
     </div>
 
+    <!-- DOI section -->
+    {% if entry.doi %}
+    <div class="doi">
+      doi: <a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a>
+    </div>
+    {% endif %}
+
+    <!-- URL section -->
+    {% if entry.url %}
+    <div class="url">
+      URL: <a href="{{ entry.url }}">{{ entry.url }}</a>
+    </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
