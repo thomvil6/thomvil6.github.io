@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be taking up a position as a fluid mechanics and thermal engineer at Framatome (Lyon) in September. :sparkles: :smiley:
+I'll be taking up a position as a fluid mechanics and thermal engineer at [Framatome](https://www.framatome.com/en/) (Lyon) in September. :sparkles: :smiley:
