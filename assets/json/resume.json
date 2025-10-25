@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Thomas Villemin",
-    "label": "Researcher",
+    "label": "Engineer, PhD",
     "image": "",
-    "email": "thomas.villemin@univ-lorraine.fr",
+    "email": "thomas.villemin@framatome.com",
     "phone": "",
     "url": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Nancy",
+      "city": "Lyon",
       "countryCode": "France",
       "region": ""
     },
@@ -24,12 +24,29 @@
   },
   "work": [
     {
+      "name": "Framatome, Lyon, France",
+      "location": "Lyon, France",
+      "position": "Thermohydraulic engineer",
+      "url": "",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Computational Fluid Dynamics (CFD) and thermal transfers"
+    },
+    {
       "name": "Mines Nancy - LEMTA",
       "position": "ATER",
       "url": "",
       "startDate": "2023",
       "endDate": "2024",
       "summary": "Teaching at École Mines Nancy and academic research at LEMTA"
+    },
+    {
+      "name": "Max Planck Institute for Plasma Physics, Munich, Germany",
+      "position": "Master Thesis Student",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Investigation of a high order Spline Finite Element discretization for the MHD equilibrium code GVEC"
     }
   ],
   "education": [
@@ -41,6 +58,24 @@
       "startDate": "2019",
       "endDate": "2023",
       "courses": ["Modelling heat and mass transfers between the surface of a PV panel and an extensive green roof"]
+    },
+    {
+      "institution": "CentraleSupelec, Saclay, France",
+      "location": "Saclay, France",
+      "area": "",
+      "studyType": "Engineering degree",
+      "startDate": "2016",
+      "endDate": "2019",
+      "courses": ["Applied mathematics, Physics, Coupled transfers, Control engineering"]
+    },
+    {
+      "institution": "Paris-Saclay University, Saclay, France",
+      "location": "Saclay, France",
+      "area": "",
+      "studyType": "Research Master in Process for Energy",
+      "startDate": "2018",
+      "endDate": "2019",
+      "courses": ["Turbulence modeling, CFD, Process simulation, Chemical engineering"]
     }
   ],
   "awards": [
