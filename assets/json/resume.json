@@ -34,6 +34,7 @@
     },
     {
       "name": "Mines Nancy - LEMTA",
+      "location": "Nancy, France",
       "position": "ATER",
       "url": "",
       "startDate": "2023",
@@ -42,6 +43,7 @@
     },
     {
       "name": "Max Planck Institute for Plasma Physics, Munich, Germany",
+      "location": "Munich, Germany",
       "position": "Master Thesis Student",
       "url": "",
       "startDate": "2019",
