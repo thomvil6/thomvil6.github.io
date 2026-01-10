@@ -30,7 +30,8 @@
       "url": "",
       "startDate": "2024",
       "endDate": "",
-      "summary": "Computational Fluid Dynamics (CFD) and thermal transfers"
+      "summary": "Computational Fluid Dynamics (CFD) and thermal transfers",
+      "order":4
     },
     {
       "name": "Mines Nancy - LEMTA",
@@ -39,7 +40,8 @@
       "url": "",
       "startDate": "2023",
       "endDate": "2024",
-      "summary": "Teaching at École Mines Nancy and academic research at LEMTA"
+      "summary": "Teaching at École Mines Nancy and academic research at LEMTA",
+      "order":3
     },
     {
       "name": "LEMTA, CEREMA, University of Lorraine",
@@ -48,7 +50,8 @@
       "url": "",
       "startDate": "2019",
       "endDate": "2023",
-      "summary": "Modelling heat and mass transfers between the surface of a PV panel and an extensive green roof"
+      "summary": "Modelling heat and mass transfers between the surface of a PV panel and an extensive green roof",
+      "order":2
     },
     {
       "name": "Max Planck Institute for Plasma Physics, Munich, Germany",
@@ -57,12 +60,13 @@
       "url": "",
       "startDate": "2019",
       "endDate": "2019",
-      "summary": "Investigation of a high order Spline Finite Element discretization for the MHD equilibrium code GVEC"
+      "summary": "Investigation of a high order Spline Finite Element discretization for the MHD equilibrium code GVEC",
+      "order":1
     }
   ],
   "education": [
     {
-      "institution": "LEMTA, University of Lorraine, Nancy, France",
+      "institution": "LEMTA, CEREMA, University of Lorraine",
       "location": "Nancy, France",
       "area": "",
       "studyType": "PhD",

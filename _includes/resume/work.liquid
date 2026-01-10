@@ -1,5 +1,5 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign work = data[1] | sort: 'startDate' | reverse %}
+  {% assign work = data[1] | sort: 'order' | reverse %}
   {% for content in work %}
     <li class="list-group-item">
       <div class="row">
@@ -14,7 +14,6 @@
             {% assign date = '' %}
           {% endif %}
 
-          <!-- On remplace le span seul par une petite table comme dans "education" -->
           <table class="table-cv">
             <tbody>
               <tr>
@@ -27,7 +26,6 @@
                 </td>
               </tr>
 
-              <!-- 💡 Ajout du bloc location ici -->
               {% if content.location %}
                 <tr>
                   <td>
@@ -57,6 +55,7 @@
             {% endfor %}
           </ul>
         </div>
+
       </div>
     </li>
   {% endfor %}
